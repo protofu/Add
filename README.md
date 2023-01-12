@@ -2,7 +2,7 @@
 
 ## _he*ad*
 
-### he~~ad~~ adad
+### he~~ad~~ adad 3333333
 
 [링크](http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3)
 
